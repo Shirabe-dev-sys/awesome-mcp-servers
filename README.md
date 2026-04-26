@@ -304,6 +304,8 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
+- **[Shirabe Calendar API](https://github.com/techwell-inc-jp/shirabe-calendar-api)** - Japanese calendar API for AI agents. Provides Rokuyo (六曜), Rekichu (暦注 — auspicious days like ichiryū-manbai-bi and tenshanichi), Eto (干支), 24 Solar Terms, and purpose-specific fortune judgments (wedding/moving/business etc.) via MCP and REST API. Backed by an in-house astronomical engine; covers 1873-2100. Free tier 10,000 calls/month.
+
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
